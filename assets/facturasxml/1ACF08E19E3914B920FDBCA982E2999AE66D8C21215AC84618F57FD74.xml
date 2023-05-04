@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<facturaComputarizadaCompraVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="facturaComputarizadaCompraVenta.xsd">
+  <cabecera>
+    <nitEmisor>391810017</nitEmisor>
+    <razonSocialEmisor>JORGE ARIEL PACHECHO SALAS</razonSocialEmisor>
+    <municipio>La Paz</municipio>
+    <telefono>0</telefono>
+    <numeroFactura>5</numeroFactura>
+    <cuf>1ACF08E19E3914B920FDBCA982E2999AE66D8C21215AC84618F57FD74</cuf>
+    <cufd>BQcKhQktTbkFBNzUQ2NkIzQUNDQTc=Q0FaaWNMV0VYVUFIzNkFBNjNGQjA3Q</cufd>
+    <codigoSucursal>0</codigoSucursal>
+    <direccion>CALLE FIGUEROA NRO.692 EDIFICIO SAN JUAN PISO 4 DPTO. 402 ZONA EL ROSARIO</direccion>
+    <codigoPuntoVenta>0</codigoPuntoVenta>
+    <fechaEmision>2023-04-21T11:59:17.488</fechaEmision>
+    <nombreRazonSocial>MENDOZA</nombreRazonSocial>
+    <codigoTipoDocumentoIdentidad>5</codigoTipoDocumentoIdentidad>
+    <numeroDocumento>6858879016</numeroDocumento>
+    <complemento xsi:nil="true"/>
+    <codigoCliente>00000002</codigoCliente>
+    <codigoMetodoPago>1</codigoMetodoPago>
+    <numeroTarjeta xsi:nil="true"/>
+    <montoTotal>1.20</montoTotal>
+    <montoTotalSujetoIva>1.20</montoTotalSujetoIva>
+    <codigoMoneda>1</codigoMoneda>
+    <tipoCambio>1</tipoCambio>
+    <montoTotalMoneda>1.20</montoTotalMoneda>
+    <montoGiftCard xsi:nil="true"/>
+    <descuentoAdicional>0.00</descuentoAdicional>
+    <codigoExcepcion xsi:nil="true"/>
+    <cafc xsi:nil="true"/>
+    <leyenda>Ley N° 453: Los alimentos declarados de primera necesidad deben ser suministrados de manera adecuada, oportuna, continua y a precio justo.</leyenda>
+    <usuario>admin</usuario>
+    <codigoDocumentoSector>1</codigoDocumentoSector>
+  </cabecera>
+  <detalle>
+    <actividadEconomica>464410</actividadEconomica>
+    <codigoProductoSin>35220</codigoProductoSin>
+    <codigoProducto>12345</codigoProducto>
+    <descripcion>LOSARTAN 0,55 MG</descripcion>
+    <cantidad>1</cantidad>
+    <unidadMedida>57</unidadMedida>
+    <precioUnitario>1.20</precioUnitario>
+    <montoDescuento>0.00</montoDescuento>
+    <subTotal>1.20</subTotal>
+    <numeroSerie xsi:nil="true"/>
+    <numeroImei xsi:nil="true"/>
+  </detalle>
+</facturaComputarizadaCompraVenta>
